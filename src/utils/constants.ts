@@ -1,0 +1,3 @@
+export const PICOVOICE_ACCESS_KEY = 'YOUR_PICOVOICE_ACCESS_KEY_HERE'; 
+
+export const WAKE_WORDS = ['PORCUPINE']; 
